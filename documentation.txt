@@ -1,0 +1,22 @@
+//4. Bonus (Optional) - Add the link for API documentation using postman or export the
+postman collection and add the json file in the repository.
+
+
+http://localhost:5000/register   for register the account : POST
+
+http://localhost:5000/login      for login the account  : POST
+
+http://localhost:5000/addprofile   for creating new account  : POST
+
+
+http://localhost:5000/getallprofile   FOR FETCHING THE DATA : GET
+
+
+http://localhost:5000/update/:id    FOR UPDATE THE DETAILS : : PATCH
+
+
+
+
+
+
+
